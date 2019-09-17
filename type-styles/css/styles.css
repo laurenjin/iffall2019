@@ -1,0 +1,23 @@
+body {
+	font-family: Open Sans, sans-serif;
+	font-size: 14pt; 
+	text-align: center;
+line-height: 1.2;
+margin: 15px}
+
+h1 {font-family: Open Sans, sans-serif;font-size: 50px;
+text-align: center;line-height: 1
+font-weight:bold;}
+
+
+.styledFontBold {font-weight: bold;line-height: 1}
+.styledFontItalic {font-style: italic; line-height: 1}
+.styledfontwide {letter-spacing: .3em;}
+.styledFontNarrow {letter-spacing: -.1em}
+.styledfontunderline {text-decoration: underline;}
+.styledfontlinethrough {text-decoration: line-through;}
+.styledfontuppercase {text-transform: uppercase;}
+.styledfontlowercase {text-transform: lowercase;}
+.styledfontcapitalize {text-transform: capitalize;}
+div {font-size: 20px;}
+
