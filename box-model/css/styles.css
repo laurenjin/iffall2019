@@ -1,0 +1,81 @@
+body {
+	font-family: 'Archivo Narrow', sans-serif;
+	letter-spacing: -.4px;
+	font-size:17.7px;
+	font-weight: 600;
+}
+
+
+.header {
+	color: white;
+	margin-top: 0;
+	text-align: center;
+	padding-top: 132px; 
+	padding-bottom: 160px;
+
+
+
+}
+
+h1 {
+	font-size: 80px;
+	font-weight: bold;
+	display: block;
+	margin: 0;
+
+}
+
+h3 {
+	font-size: 30px;
+	margin:0;
+}
+
+.one {
+	background-size: cover;
+	background-image: url(/Users/laurenjin/Documents/ifFall/iffall2019/publish/box-model/fruit.jpg);
+
+
+}
+
+.two {
+/*	background-color: pink;*/
+	display: block;
+	color: black;
+	padding-bottom: 20px;
+}
+
+.two img {
+	float:right;
+	padding-top: 32px;
+	margin-left: 38px;
+	margin-bottom: 45px;
+
+
+}
+.three {
+
+}
+
+#wonder {
+font-style: italic;
+}
+
+h2 {
+	text-align: center;
+	font-size:2.5em;
+	letter-spacing: 0.02em;	
+	margin: 0;
+	padding-top:13px;
+	}
+
+.content {
+	width:960px;
+	margin: 0 auto;
+
+}
+
+section {
+	padding: 20px 0;
+
+
+
