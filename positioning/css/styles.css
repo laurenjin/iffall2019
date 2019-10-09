@@ -1,0 +1,30 @@
+aside {
+	float: right;
+}
+
+.two {
+	position: relative;
+	left: 37px;
+	top: 135px;
+}
+
+.three {
+	background-color: green;
+	position: fixed;
+	right: 0;
+	top: 0;
+}
+
+.four {
+	background-color: black;
+	position: relative;
+	top: 20px;
+	right: 350px;
+	z-index: 10px;
+}
+
+.five {
+	background-color:red;
+	position: absolute;
+	right: 750px;
+}
