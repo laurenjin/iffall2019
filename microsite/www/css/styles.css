@@ -1,0 +1,197 @@
+/*
+font-family: forma-djr-banner, sans-serif;
+
+font-weight: 400;
+
+font-style: normal;
+
+
+Forma DJR Banner Italic
+
+font-family: forma-djr-banner, sans-serif;
+
+font-weight: 400;
+
+font-style: italic;
+
+
+Forma DJR Banner Bold
+
+font-family: forma-djr-banner, sans-serif;
+
+font-weight: 700;
+
+font-style: normal;
+
+
+Forma DJR Banner Bold Italic
+
+font-family: forma-djr-banner, sans-serif;
+
+font-weight: 700;
+
+font-style: italic;
+
+
+*/
+
+#ft {
+font-family: forma-djr-banner, sans-serif;
+font-weight: 700;
+font-style: italic;
+color: #a0a536;
+font-size: 50px;
+}
+
+h1 {
+
+font-family: forma-djr-banner, sans-serif;
+font-weight: 700;
+font-style: italic;
+color: #1a421b;
+font-size: 100px;
+margin-top: 100px;
+}
+
+.text-col {
+	float: left;
+	width: 40%;
+	margin-left: 88px;
+	font-family: agenda, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	line-height: 1.5em;
+	font-size: 20px;
+}
+
+.image-col {
+	background: #fff;
+	margin-right: 130px;
+	float:right;
+	width: 35%;
+	padding: 20px 2.5%;
+	margin-top: 66px;
+
+}
+
+.aboutimage {
+	width: 60%
+	height:200px;
+}
+
+#body1 {
+	background-color: #1e4868;
+    font-family: 'Open Sans', sans-serif;
+    background-image: url(homepageimage.png);
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
+#Herping {
+
+font-family: forma-djr-banner, sans-serif;
+font-weight: 700;
+font-style: normal;
+font-size: 50px;
+
+}
+
+
+a#about {
+  -webkit-transition-duration: 0.4s; 
+  transition-duration: 0.4s;
+}
+	
+
+
+a#about:hover {
+	color:#1e4868;
+	background-color: white;
+	margin-top: 0px;
+  padding: 22px 15px;
+  font-weight: 700;
+font-style: normal;
+font-size: 40px;
+}
+
+
+a#photography {
+  -webkit-transition-duration: 0.4s; 
+  transition-duration: 0.4s;
+}
+	
+
+
+a#photography:hover {
+	color:#1e4868;
+	background-color: white;
+	margin-top: 0px;
+  padding: 22px 15px;
+  font-weight: 700;
+font-style: normal;
+font-size: 40px;
+}
+
+
+a#ethics {
+  -webkit-transition-duration: 0.4s; 
+  transition-duration: 0.4s;
+}
+	
+
+
+a#ethics:hover {
+	color:#1e4868;
+	background-color: white;
+	margin-top: 0px;
+  padding: 22px 15px;
+  font-weight: 700;
+font-style: normal;
+font-size: 40px;
+}
+
+
+a#techniques {
+  -webkit-transition-duration: 0.4s; 
+  transition-duration: 0.4s;
+}
+	
+
+
+a#techniques:hover {
+	color:#1e4868;
+	background-color: white;
+	margin-top: 0px;
+  padding: 22px 15px;
+  font-weight: 700;
+font-style: normal;
+font-size: 40px;
+}
+
+
+
+.button_container {
+    box-sizing: border-box;
+    padding: 19px;
+}
+
+nav {
+    background-color: #1e4868;
+    display: flex;
+    justify-content: space-between;
+    margin-top:25px;
+    overflow: visible;
+}
+
+ nav a {
+    display: inline-block;
+    margin: auto;
+    font-size: 36px;
+    font-family: 'forma-djr-banner', sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    color: #fff;
+    text-decoration: none;
+    white-space: nowrap;
+}
