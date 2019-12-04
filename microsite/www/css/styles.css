@@ -108,7 +108,7 @@ a#about {
 a#about:hover {
 	color:#1e4868;
 	background-color: white;
-	margin-top: 0px;
+	margin-top: 13px;
   padding: 22px 15px;
   font-weight: 700;
 font-style: normal;
@@ -195,3 +195,43 @@ nav {
     text-decoration: none;
     white-space: nowrap;
 }
+
+.text-col-ph{
+	float: left;
+	width: 100%;
+	margin-left: 88px;
+	font-family: agenda, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	line-height: 1.5em;
+	font-size: 20px;
+}
+
+.imPhoto {
+	width: 435px;
+}
+.wrapperP {
+	float: left !important;
+	margin-right: 60px;
+	/*margin-left: 10px;*/
+}
+
+#photoImages {
+	min-width:100px; 
+	width: auto !important; 
+	width: 100px; 
+}
+
+.photoPageText{
+	margin-top: 25px;
+	float: left;
+	width: 43%;
+	margin-left: 88px;
+	font-family: agenda, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	line-height: 1.5em;
+	font-size: 20px;
+}
+
+
